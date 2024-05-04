@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Luis Hernandez
+
+I love software development!
+
+- 🔭 I’m currently working on SOPHOS SOLUTIONS S.A.S(Sophos.GFT)
+- 🌱 I am currently learning... Many things, I am refining my programming skills
 
 <!--
 **luig2-prog/luig2-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
