@@ -2,7 +2,6 @@
 
 I love software development!
 
-- 🔭 I’m currently working on SOPHOS SOLUTIONS S.A.S(Sophos.GFT)
 - 🌱 I am currently learning... Many things, I am refining my programming skills
 
 <!--
