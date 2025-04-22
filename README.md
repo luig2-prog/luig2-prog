@@ -11,7 +11,7 @@ Full-stack developer with 5 years of experience in backend and DevOps. I'm passi
 - AWS Services (EC2, RDS, Lambda, DynamoDB, S3, IAM)
 - MySQL and Oracle databases
 - Docker, Jenkins, Git, CI/CD
-- OpenShift and Kubernetes
+- Kubernetes
 
 📱 **Mobile Development:**
 - Flutter and React Native
