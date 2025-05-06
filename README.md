@@ -4,7 +4,7 @@ I love development software!
 
 - 🌱 I am currently learning... Many things, I am refining my programming skills
 
-Full-stack developer with 5 years of experience in backend and DevOps. I'm passionate about software development and creating efficient, scalable solutions!
+Full-stack developer with 5 years of experience. I'm passionate about software development and creating efficient, scalable solutions!
 
 🔧 **Backend & DevOps Skills:**
 - Java, Spring Boot, NodeJS
